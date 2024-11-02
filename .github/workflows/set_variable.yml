@@ -12,6 +12,8 @@ on:
         - MT3000
         - SF1200
         - SFT1200
+        - R5C
+        - R5S       
       sourcecode:
         description: 'Source code URL'     
         required: true
